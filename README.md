@@ -1,5 +1,5 @@
 # Bug
-tema Bag-uri
+Tema Bag-uri
 .....................
 **Description**
 
